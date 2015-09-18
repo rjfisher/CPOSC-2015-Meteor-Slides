@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Full Stack Development w/ Meteor",
+    "packageVersion": "0.0.1",
+    "revealTheme": "night",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "rfisher",
+    "githubRepository": "CPOSC-2015-Meteor-Slides"
+  }
+}
