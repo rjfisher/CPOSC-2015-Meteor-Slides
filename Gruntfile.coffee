@@ -89,7 +89,7 @@ module.exports = (grunt) ->
                 message: 'Built from %sourceCommit% on branch %sourceBranch%'
             pages:
                 options:
-                    remote: 'gi://github.com/rjfisher/CPOSC-2015-Meteor-Slides.git'
+                    remote: 'https://github.com/rjfisher/CPOSC-2015-Meteor-Slides.git'
                     branch: 'gh-pages'
 
 
