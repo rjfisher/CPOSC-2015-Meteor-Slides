@@ -1,1 +1,68 @@
-["index.md"]
+[
+    {
+        "filename": "index.md",
+        "attr": {
+            "data-background": "https://d14xs1qewsqjcd.cloudfront.net/assets/met-stars.png"
+        }
+    },
+    {
+        "filename": "who-am-i.md",
+        "attr": {
+            "data-background": "https://d14xs1qewsqjcd.cloudfront.net/assets/met-stars.png"
+        }
+    },
+    {
+        "filename": "what-is-meteor.md",
+        "attr": {
+            "data-background": "https://d14xs1qewsqjcd.cloudfront.net/assets/met-stars.png"
+        }
+    },
+    {
+        "filename": "why-meteor.md",
+        "attr": {
+            "data-background": "https://d14xs1qewsqjcd.cloudfront.net/assets/met-stars.png"
+        }
+    },
+    {
+        "filename": "tooling.md",
+        "attr": {
+            "data-background": "https://d14xs1qewsqjcd.cloudfront.net/assets/met-stars.png"
+        }
+    },
+    {
+        "filename": "installation.md",
+        "attr": {
+            "data-background": "https://d14xs1qewsqjcd.cloudfront.net/assets/met-stars.png"
+        }
+    },
+    {
+        "filename": "getting-started.md",
+        "attr": {
+            "data-background": "https://d14xs1qewsqjcd.cloudfront.net/assets/met-stars.png"
+        }
+    },
+    {
+        "filename": "code-code-code.md",
+        "attr": {
+            "data-background": "https://d14xs1qewsqjcd.cloudfront.net/assets/met-stars.png"
+        }
+    },
+    {
+        "filename": "downsides.md",
+        "attr": {
+            "data-background": "https://d14xs1qewsqjcd.cloudfront.net/assets/met-stars.png"
+        }
+    },
+    {
+        "filename": "questions.md",
+        "attr": {
+            "data-background": "https://d14xs1qewsqjcd.cloudfront.net/assets/met-stars.png"
+        }
+    },
+    {
+        "filename": "resources.md",
+        "attr": {
+            "data-background": "https://d14xs1qewsqjcd.cloudfront.net/assets/met-stars.png"
+        }
+    }
+]
