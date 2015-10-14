@@ -12,6 +12,12 @@
         }
     },
     {
+        "filename": "who-are-you.md",
+        "attr": {
+            "data-background": "https://d14xs1qewsqjcd.cloudfront.net/assets/met-stars.png"
+        }
+    },
+    {
         "filename": "what-is-meteor.md",
         "attr": {
             "data-background": "https://d14xs1qewsqjcd.cloudfront.net/assets/met-stars.png"
