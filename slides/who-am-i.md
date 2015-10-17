@@ -1,13 +1,14 @@
-##  Who am I?
+##  Who am hell am I?
+### [aka Why should I listen to you?]
 
-### Professional Developer
+#### Professional Developer
 
 [geographIT](http://www.geographit.com/)
 
-### Digital Footprint
+#### Digital Footprint
 
 [website](http://www.robfisher.us) - [twitter](http://twitter.com/bler) - [github](http://github.com/rjfisher)
 
-### Meteor Mondays
+#### Meteor Mondays
 
 [website](http://www.meteor-mondays.com) - [github](http://github.com/meteor-mondays)
